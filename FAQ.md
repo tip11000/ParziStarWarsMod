@@ -4,15 +4,18 @@ A: The mod is compatible strictly with Minecraft Forge client and server.
 
 
 
+
 ###Q: Will you be adding Clone Wars, Rebels, Old Republic, etc. content?
 
-A: Possibly. No guarantees.
+A: Prequel Trilogy Content takes precedence over the animated shows/other games, no timelines yet.
 
 
 
-###Q: PODRACERS AND JARJAR AND CLONES AND PURPLE LIGHTSABERS OMG?
 
-A: Thanks.
+###Q: Where are purple lightsabers and Jar Jar and Podracers?
+
+A: Not yet added.
+
 
 
 
@@ -22,9 +25,18 @@ A: Maybe, but it won't be what you think. There most likely won't be a GUI.
 
 
 
+
+###Q: Add Jedi and Sith NPC's and have them spawn and stuff!!
+
+A: NPC's are tied to structures, so unless we have a Jedi Temple during the time of the Galactic Republic, you won't see any Jedi roaming the dimensions.  As for Sith, there were only ever 2 Sith at a time and were extremly hard to find so you probably won't ever see any Sith roaming around in the wild either.
+
+
+
+
 ###Q: Will this mod work with [some other mod]?
 
-A: I have no idea, try it, and if it doesn't work, post an issue to our GitHub.
+A: We can't guarantee compatibility with everything, but we would like to make PSWM as compatible as possible so give it a try with whatever you want to, and if it doesn't work, post an issue to our GitHub.
+
 
 
 
@@ -34,12 +46,21 @@ A: Not right now.
 
 
 
+
 ###Q: Factions!
 
-A: No.
+A: We want the player to be free and choose their own path, not chain themselves down to one specific person or race because we don't see the fun in that.  That being said, there will be some sort of gameplay advantages/disadvantages to playing certain ways/doing certain quests/doing certain actions/talking to certain NPC's.
+
 
 
 
 ###Q: Can I have a sarlacc pet?!
 
 A: Definitely not.
+
+
+
+
+###Q: Lasers shouldn't catch things on fire, the lightsaber animation hurts my eyes, you shouldn't get water buckets from water droplets, and I keep getting weird Dimension ID crashes!!!
+
+A: Look at our config file (located in the Minecraft Folder), all of these things and more are optional and changable on a per-user basis.
