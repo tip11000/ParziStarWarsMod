@@ -63,4 +63,4 @@ A: Definitely not.
 
 ###Q: Lasers shouldn't catch things on fire, the lightsaber animation hurts my eyes, you shouldn't get water buckets from water droplets, and I keep getting weird Dimension ID crashes!!!
 
-A: Look at our config file (located in the Minecraft Folder), all of these things and more are optional and changable on a per-user basis.
+A: Look at our config file ("starwarsmod.cfg" located in the .minecraft/config/ folder), all of these things and more are optional and changable on a per-user basis.
