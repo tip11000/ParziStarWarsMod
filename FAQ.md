@@ -12,7 +12,7 @@ A: Prequel Trilogy Content takes precedence over the animated shows/other games,
 
 
 
-###Q: Where are purple lightsabers and Jar Jar and Podracers?
+###Q: Where are purple lightsabers and Jar Jar and Battle Droids and Clones?
 
 A: Not yet added.
 
@@ -57,6 +57,13 @@ A: We want the player to be free and choose their own path, not chain themselves
 ###Q: Can I have a sarlacc pet?!
 
 A: Definitely not.
+
+
+
+
+###Q: Can you make the guns 3D?
+
+A: We like them not being 3D, having them be 3D would stray a little too far from the vanilla feel for us, not to mention the countless hours of modeling and texturing for such a small feature.
 
 
 
