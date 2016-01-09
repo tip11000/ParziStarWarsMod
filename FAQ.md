@@ -26,6 +26,13 @@ A: Prequel Trilogy Content takes precedence over the animated shows/other games,
 
 
 
+###Q: Speaking of new content when is the next update and what are you adding?
+
+A: Go look at the New Update Info tab on our site for info and a few small spoilers about new content.  As for when, we're always working so it's just whenever we feel the next release has enough content and is stable enough to be called a release that we actually put out a new version.  Usually though you're looking at a little over 2 months between major versions, and it could slightly longer depending on the amount and complexity of things we're adding.
+
+
+
+
 ###Q: Where are purple lightsabers and Jar Jar and Battle Droids and Clones?
 
 A: Not yet added.
