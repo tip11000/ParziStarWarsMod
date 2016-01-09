@@ -82,6 +82,13 @@ A: We like them not being 3D, but maybe.
 
 
 
+###Q: Lightsabers should deflect blaster bolts and make crashing noises when they hit another lightsaber that's blocking!!
+
+A: They already do, we promise.
+
+
+
+
 ###Q: Lasers shouldn't catch things on fire, the lightsaber animation hurts my eyes, you shouldn't get water buckets from water droplets, and I keep getting weird Dimension ID crashes!!!
 
 A: Look at our config file (`starwarsmod.cfg` located in the `.minecraft/config/` folder), all of these things and more are optional and changable on a per-user basis.
