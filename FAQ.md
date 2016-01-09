@@ -1,3 +1,10 @@
+###Q: What version does the mod use?
+
+A: 1.7.10, and you need Minecraft Forge for 1.7.10 too!
+
+
+
+
 ###Q: Is this mod compatible with [server running tool or wrapper]?
 
 A: The mod is compatible strictly with Minecraft Forge client and server.
