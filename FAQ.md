@@ -14,7 +14,7 @@ A: The mod is compatible strictly with Minecraft Forge client and server.
 
 ###Q: I want to work with you guys what can I do?
 
-A: If you have examples of your work somewhere public online and we see it and want to work with you, we'll contact you.
+A: If you have examples of your work somewhere public online and we see it and want to work with you, we'll contact you.  But we aren't necessarily looking for people to add to the team, sorry.
 
 
 
