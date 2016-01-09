@@ -12,6 +12,13 @@ A: The mod is compatible strictly with Minecraft Forge client and server.
 
 
 
+###Q: I want to work with you guys what can I do?
+
+A: If you have examples of your work somewhere public online and we see it and want to work with you, we'll contact you.
+
+
+
+
 ###Q: Will you be adding Clone Wars, Rebels, Old Republic, etc. content?
 
 A: Prequel Trilogy Content takes precedence over the animated shows/other games, no timelines yet.
@@ -70,7 +77,7 @@ A: Definitely not.
 
 ###Q: Can you make the guns 3D?
 
-A: We like them not being 3D, having them be 3D would stray a little too far from the vanilla feel for us, not to mention the countless hours of modeling and texturing for such a small feature.
+A: We like them not being 3D, but maybe.
 
 
 
